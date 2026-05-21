@@ -1,0 +1,13 @@
+Collaboration Log
+
+Developer: William Joseph
+Date: 2026-05-21
+Task: Simulating team collaboration on Git
+
+Updates:
+- Working together on same repository
+- Using feature branches
+- Creating pull requests
+- Code reviews
+
+Status: Collaborative workflow successful
