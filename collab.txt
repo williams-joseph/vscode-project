@@ -1,6 +1,6 @@
 Collaboration Log
 
-Developer: William Joseph
+Developer: Williams Joseph
 Date: 2026-05-21
 Task: Simulating team collaboration on Git
 
