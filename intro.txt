@@ -1,0 +1,12 @@
+Introduction to Git Lab
+
+This is the feature-add-intro branch.
+We are learning branching and merging in Git.
+
+Topics covered:
+- Creating branches
+- Switching between branches
+- Adding files on feature branches
+- Merging back to main
+
+Status: In progress
